@@ -16,8 +16,8 @@ Learning others: IA, Marketing, AWS, Servers 🖥 and Music Production 🎹
 ------------------------------------------------------------------
 👨‍💼 2 years working as a developer at private security company 🔒.
 
-1 App in production (Ionic/Electron) 🔒.
-2 Projects in development (Flutter/AWS) 🔒.
+- 1 App in production (Ionic/Electron) 🔒.
+- 2 Projects in development (Flutter/AWS) 🔒.
 <!---
 dragonnmau/dragonnmau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
