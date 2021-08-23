@@ -6,7 +6,7 @@
 - Dart, Typescript, Java, C++
 - Photoshop, Core Draw, Premiere, Inkscape
 
-Learning IA and Music Production
+Learning IA, Marketing and Music Production
 <!---
 dragonnmau/dragonnmau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
