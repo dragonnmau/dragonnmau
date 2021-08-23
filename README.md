@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mauricio Rodriguez
 - Engineer in software, Graphic designer, Illustrator
 - Eng/Esp
-
+------------------------------------------------------------------
 - Angular, Ionic, Flutter, Express
 - Dart, Typescript, Java, C++
 - Photoshop, Core Draw, Premiere, Inkscape
