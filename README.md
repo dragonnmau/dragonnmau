@@ -11,12 +11,12 @@
 Learning languages: Dart, Python
 Learning DB: Firebase, DynamoDB, MongoDB
 Learning frameworks: Laravel, Arduino
-Learning others: IA, Marketing, AWS, Servers 🖥 and Music Production 🎹
+Learning others: IA, Marketing, AWS, Git, Servers 🖥 and Music Production 🎹
 
 ------------------------------------------------------------------
 👨‍💼 2 years working as a developer at private security company 🔒.
 
-- 1 App in production (Ionic/Electron) 🔒.
+- 1 Project in production (Ionic/Electron) (Typescript/Javascrip/PHP) (Mobile App, Desktop App, Web App and Api in express) 🔒.
 - 2 Projects in development (Flutter/AWS) 🔒.
 <!---
 dragonnmau/dragonnmau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
