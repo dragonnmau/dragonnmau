@@ -1,16 +1,16 @@
-- 👋 Hi, I’m Mauricio Rodriguez
+- 👋 Hi, I’m Mauricio Rodriguez Salgado
 - Full Stack Developer 
 - Engineer in software 👨‍💻, Graphic designer 🖊️, Illustrator 📓
 - Eng %45 / Esp (Native Language) 
 ------------------------------------------------------------------
-- Angular, Ionic, Flutter, Express, Electron, Node.js
+- Angular, Ionic, Express, Electron, Node.js
 - Typescript, Java, C++, C#, PHP 
 - MySql
-- Photoshop, Core Draw, Premiere, Inkscape
+- Photoshop, Core Draw, Premiere, Inkscape, Procreate
 
 Learning languages: Dart, Python
 Learning DB: Firebase, DynamoDB, MongoDB
-Learning frameworks: Laravel, Arduino
+Learning frameworks: Laravel, Arduino, Flutter
 Learning others: IA, Marketing, AWS, Git, Modeling 3D ,Servers 🖥 and Music Production 🎹
 
 ------------------------------------------------------------------
