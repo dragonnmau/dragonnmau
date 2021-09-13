@@ -14,8 +14,13 @@ Learning frameworks: Laravel, Arduino, Flutter
 Learning others: IA, Marketing, AWS, Git, Modeling 3D ,Servers 🖥 and Music Production 🎹  
 
 ------------------------------------------------------------------
+<div align="center">
+  
 👨‍💼 2 years working as a developer at private security company 🔒.
 --
+  
+</div>
+
 - 1 Project in production (Typescript/Javascrip/PHP) (Mobile App in ionic/angular, Desktop App in electron, Web System without framework and Api in express/Node.js) (Available in Play store and App store)🔒.
 - 2 Projects in development (Flutter/AWS/Vue) 🔒.
 <!---
