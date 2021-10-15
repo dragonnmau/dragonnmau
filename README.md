@@ -4,7 +4,7 @@
 - Eng %45 / Esp (Native Language) 
 ------------------------------------------------------------------
 - Angular, Ionic, Express, Electron, Node.js
-- Typescript, Java, C++, C#, PHP 
+- Typescript, Java, C++, C#, PHP, JS
 - MySql
 - Photoshop, Core Draw, Premiere, Inkscape, Procreate
 
