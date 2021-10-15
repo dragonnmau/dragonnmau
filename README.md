@@ -9,7 +9,7 @@
 - Photoshop, Core Draw, Premiere, Inkscape, Procreate
 
 Learning languages: Dart, Python  
-Learning DB: Firebase, DynamoDB, MongoDB, ReThingDB
+Learning DB: Firebase, DynamoDB, MongoDB, ReThingDB  
 Learning frameworks: Laravel, Arduino, Flutter  
 Learning others: IA, Marketing, AWS, Git, Modeling 3D ,Servers 🖥 and Music Production 🎹  
 
