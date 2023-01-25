@@ -16,13 +16,22 @@ Learning others: IA, Marketing, AWS, Git, Modeling 3D ,Servers 🖥 and Music Pr
 ------------------------------------------------------------------
 <div align="center">
   
-👨‍💼 2 years working as a developer at private security company 🔒.
+👨‍💼👨‍💻 2 years working as a developer at private security company 🔒.
 --
   
 </div>
 
 - 1 Project in production (Typescript/Javascrip/PHP) (Mobile App in ionic/angular, Desktop App in electron, Web System without framework and Api in express/Node.js) (Available in Play store and App store)🔒.
 - 2 Projects in development (Flutter/AWS/Vue) 🔒.
+
+<div align="center">
+  
+👨‍💻🛠 1 year working as a field engineer for various companies 🔒.
+--
+  
+</div>
+
+- configuration, maintenance and installation of network, telephony and computer equipment (Cisco)
 <!---
 dragonnmau/dragonnmau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
