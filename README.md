@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mauricio Rodriguez Salgado
+- 👋 Hi, I’m Mauricio Salvador Rodriguez Salgado
 - Full Stack Developer 
 - Engineer in software 👨‍💻, Graphic designer 🖊️, Illustrator 📓
 - Eng %45 / Esp (Native Language) 
@@ -7,6 +7,7 @@
 - Typescript, Java, C++, C#, PHP, JS
 - MySql
 - Photoshop, Core Draw, Premiere, Inkscape, Procreate
+- Cisco, Telephony, Networking cabling
 
 Learning languages: Dart, Python  
 Learning DB: Firebase, DynamoDB, MongoDB, ReThingDB  
@@ -31,7 +32,7 @@ Learning others: IA, Marketing, AWS, Git, Modeling 3D ,Servers 🖥 and Music Pr
   
 </div>
 
-- configuration, maintenance and installation of network, telephony and computer equipment (Cisco)
+- Configuration, maintenance and installation of network (Cisco), telephony and computer equipment 
 <!---
 dragonnmau/dragonnmau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
